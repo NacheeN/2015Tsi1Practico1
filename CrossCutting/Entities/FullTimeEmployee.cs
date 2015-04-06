@@ -8,5 +8,6 @@ namespace Shared.Entities
 {
     public class FullTimeEmployee : Employee
     {
+        public int Salary { get; set; }
     }
 }
