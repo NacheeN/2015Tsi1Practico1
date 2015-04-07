@@ -27,7 +27,6 @@ namespace DataAccessLayer
                 m.ToTable("PART_TIME_EMP");
             });
 
-
             base.OnModelCreating(modelBuilder);
         }
     }
