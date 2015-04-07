@@ -49,6 +49,7 @@
     <Compile Include="DALEmployeesEF.cs" />
     <Compile Include="DALEmployeesNativeSQL.cs" />
     <Compile Include="DALEmployeesMock.cs" />
+    <Compile Include="EmployeeDBContext.cs" />
     <Compile Include="IDALEmployees.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
