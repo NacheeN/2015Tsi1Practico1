@@ -11,6 +11,7 @@ namespace DataAccessLayer
     {
         public void AddEmployee(Employee emp)
         {
+
             throw new NotImplementedException();
         }
 
