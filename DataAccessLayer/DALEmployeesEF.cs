@@ -9,15 +9,37 @@ namespace DataAccessLayer
 {
     public class DALEmployeesEF : IDALEmployees
     {
+        // agrego empleado
         public void AddEmployee(Employee emp)
         {
             throw new NotImplementedException();
         }
 
-        public void DeleteEmployee(int id)
+
+        // borro empleado
+        public static void DeleteEmployee(int id)
         {
-            throw new NotImplementedException();
+            EmployeeDBContext db = new
+            EmployeeDBContext();
+
+            var matched_Employee = (from c in db.GetTable<Employee>()
+                                    where c.id == id
+                                    select c).SingleOrDefault();
+
+            try
+            {
+                db.Employee.DeleteOnSubmit(matched_Employee);
+                db.SubmitChanges();
+            }
+            catch (Exception ex)
+            {
+                throw ex;
+            }
         }
+
+
+
+
 
         public void UpdateEmployee(Employee emp)
         {
