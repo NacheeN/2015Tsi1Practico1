@@ -1,1 +1,15 @@
 C:\Users\gaston\Source\Repos\2015Tsi1Practico1\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\gaston\Source\Repos\2015Tsi1Practico1\Test\bin\Debug\Test.dll
+C:\Users\gaston\Source\Repos\2015Tsi1Practico1\Test\bin\Debug\Test.pdb
+C:\Users\gaston\Source\Repos\2015Tsi1Practico1\Test\bin\Debug\BusinessLogicLayer.dll
+C:\Users\gaston\Source\Repos\2015Tsi1Practico1\Test\bin\Debug\DataAccessLayer.dll
+C:\Users\gaston\Source\Repos\2015Tsi1Practico1\Test\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\gaston\Source\Repos\2015Tsi1Practico1\Test\bin\Debug\Shared.dll
+C:\Users\gaston\Source\Repos\2015Tsi1Practico1\Test\bin\Debug\EntityFramework.dll
+C:\Users\gaston\Source\Repos\2015Tsi1Practico1\Test\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\gaston\Source\Repos\2015Tsi1Practico1\Test\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\gaston\Source\Repos\2015Tsi1Practico1\Test\bin\Debug\Shared.pdb
+C:\Users\gaston\Source\Repos\2015Tsi1Practico1\Test\bin\Debug\DataAccessLayer.pdb
+C:\Users\gaston\Source\Repos\2015Tsi1Practico1\Test\bin\Debug\EntityFramework.xml
+C:\Users\gaston\Source\Repos\2015Tsi1Practico1\Test\obj\Debug\Test.dll
+C:\Users\gaston\Source\Repos\2015Tsi1Practico1\Test\obj\Debug\Test.pdb

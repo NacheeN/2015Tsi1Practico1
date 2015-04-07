@@ -26,7 +26,7 @@ namespace DataAccessLayer
         }
 
         // borro empleado
-        public static void DeleteEmployee(int id)
+        public void DeleteEmployee(int id)
         {
              var matched_Employee = (from c in db.Employee
                                     where c.Id == id
