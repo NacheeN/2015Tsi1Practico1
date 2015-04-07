@@ -2,3 +2,4 @@ C:\Users\gaston\Source\Repos\2015Tsi1Practico1\CrossCutting\bin\Debug\Shared.dll
 C:\Users\gaston\Source\Repos\2015Tsi1Practico1\CrossCutting\bin\Debug\Shared.pdb
 C:\Users\gaston\Source\Repos\2015Tsi1Practico1\CrossCutting\obj\Debug\Shared.dll
 C:\Users\gaston\Source\Repos\2015Tsi1Practico1\CrossCutting\obj\Debug\Shared.pdb
+C:\Users\gaston\Source\Repos\2015Tsi1Practico1\CrossCutting\obj\Debug\Shared.csprojResolveAssemblyReference.cache
