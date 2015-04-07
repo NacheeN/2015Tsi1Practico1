@@ -1,2 +1,16 @@
 C:\Users\gaston\Documents\Visual Studio 2013\Projects\PracticoTSI1\PresentationLayerConsole\bin\Debug\PresentationLayerConsole.exe.config
+C:\Users\gaston\Source\Repos\2015Tsi1Practico1\PresentationLayerConsole\bin\Debug\PresentationLayerConsole.exe.config
+C:\Users\gaston\Source\Repos\2015Tsi1Practico1\PresentationLayerConsole\bin\Debug\PresentationLayerConsole.exe
+C:\Users\gaston\Source\Repos\2015Tsi1Practico1\PresentationLayerConsole\bin\Debug\PresentationLayerConsole.pdb
+C:\Users\gaston\Source\Repos\2015Tsi1Practico1\PresentationLayerConsole\bin\Debug\BusinessLogicLayer.dll
+C:\Users\gaston\Source\Repos\2015Tsi1Practico1\PresentationLayerConsole\bin\Debug\DataAccessLayer.dll
+C:\Users\gaston\Source\Repos\2015Tsi1Practico1\PresentationLayerConsole\bin\Debug\Shared.dll
+C:\Users\gaston\Source\Repos\2015Tsi1Practico1\PresentationLayerConsole\bin\Debug\EntityFramework.dll
+C:\Users\gaston\Source\Repos\2015Tsi1Practico1\PresentationLayerConsole\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\gaston\Source\Repos\2015Tsi1Practico1\PresentationLayerConsole\bin\Debug\Shared.pdb
+C:\Users\gaston\Source\Repos\2015Tsi1Practico1\PresentationLayerConsole\bin\Debug\DataAccessLayer.pdb
+C:\Users\gaston\Source\Repos\2015Tsi1Practico1\PresentationLayerConsole\bin\Debug\EntityFramework.xml
 C:\Users\gaston\Source\Repos\2015Tsi1Practico1\PresentationLayerConsole\obj\Debug\PresentationLayerConsole.csprojResolveAssemblyReference.cache
+C:\Users\gaston\Source\Repos\2015Tsi1Practico1\PresentationLayerConsole\obj\Debug\PresentationLayerConsole.exe
+C:\Users\gaston\Source\Repos\2015Tsi1Practico1\PresentationLayerConsole\obj\Debug\PresentationLayerConsole.pdb
+C:\Git\2015Tsi1Practico1\PresentationLayerConsole\bin\Debug\PresentationLayerConsole.exe.config
