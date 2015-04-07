@@ -52,5 +52,16 @@ namespace DataAccessLayer
         {
             throw new NotImplementedException();
         }
+
+
+        var list = from e in Employee
+                   orderby e.id ascending
+                   select e;
+
+        foreach (Employee e in employeesRepository)
+	{
+		 AddEmployee(Employee e);
+	}
+
     }
 }
