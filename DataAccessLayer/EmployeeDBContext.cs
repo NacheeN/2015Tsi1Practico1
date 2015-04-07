@@ -5,6 +5,8 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Data.Entity;
 using Shared.Entities;
+using System.ComponentModel.DataAnnotations.Schema;
+using System.ComponentModel.DataAnnotations;
 
 namespace DataAccessLayer
 {
@@ -26,6 +28,8 @@ namespace DataAccessLayer
                 m.MapInheritedProperties();
                 m.ToTable("PART_TIME_EMP");
             });
+
+            modelBuilder.Entity<Employee>().Property(p => p.Id).HasDatabaseGeneratedOption(DatabaseGeneratedOption.None);
 
             base.OnModelCreating(modelBuilder);
         }

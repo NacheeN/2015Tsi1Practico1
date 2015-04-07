@@ -11,11 +11,11 @@ namespace DataAccessLayer
     {
         private List<Employee> employeesRepository = new List<Employee>()
         {
-            new PartTimeEmployee(){HourlyDate = 100},
-            new PartTimeEmployee(){HourlyDate = 150},
-            new PartTimeEmployee(){HourlyDate = 200},
-            new PartTimeEmployee(){HourlyDate = 250},
-            new PartTimeEmployee(){HourlyDate = 300},
+            new PartTimeEmployee(){HourlyRate = 100},
+            new PartTimeEmployee(){HourlyRate = 150},
+            new PartTimeEmployee(){HourlyRate = 200},
+            new PartTimeEmployee(){HourlyRate = 250},
+            new PartTimeEmployee(){HourlyRate = 300},
             new FullTimeEmployee(){},
             new FullTimeEmployee(){},
             new FullTimeEmployee(){},
@@ -52,5 +52,16 @@ namespace DataAccessLayer
         {
             throw new NotImplementedException();
         }
+
+
+        var list = from e in Employee
+                   orderby e.id ascending
+                   select e;
+
+        foreach (Employee e in employeesRepository)
+	{
+		 AddEmployee(Employee e);
+	}
+
     }
 }
