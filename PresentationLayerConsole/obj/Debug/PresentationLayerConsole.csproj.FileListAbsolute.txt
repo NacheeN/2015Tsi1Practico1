@@ -13,3 +13,4 @@ C:\Users\gaston\Source\Repos\2015Tsi1Practico1\PresentationLayerConsole\bin\Debu
 C:\Users\gaston\Source\Repos\2015Tsi1Practico1\PresentationLayerConsole\obj\Debug\PresentationLayerConsole.csprojResolveAssemblyReference.cache
 C:\Users\gaston\Source\Repos\2015Tsi1Practico1\PresentationLayerConsole\obj\Debug\PresentationLayerConsole.exe
 C:\Users\gaston\Source\Repos\2015Tsi1Practico1\PresentationLayerConsole\obj\Debug\PresentationLayerConsole.pdb
+D:\2015Tsi1Practico1\PresentationLayerConsole\bin\Debug\PresentationLayerConsole.exe.config
