@@ -49,18 +49,25 @@ namespace BusinessLogicLayer
 
         public double CalcPartTimeEmployeeSalary(int idEmployee, int hours)
         {
-            double suma=0;
-            Employee em = _dal.GetEmployee(idEmployee);
+            
            
-            try 
-	        {	        
+            try
+            {
+                double suma = 0;
+                Employee em = _dal.GetEmployee(idEmployee);
+      
 		        if (em != null)
                 {
-                    if( em is PartTimeEmployee)
+                    if (em is PartTimeEmployee)
                     {
                         PartTimeEmployee p = (PartTimeEmployee)em;
                         suma = p.HourlyRate * hours;
-                        
+
+                    }
+                    else
+                    {
+                        Console.WriteLine("No se puede calcular Salario. Empleado Full Time");
+                        throw new System.Exception("No es part time");
                     }
                 }
                 return suma;

@@ -7,3 +7,7 @@ C:\Users\user\Desktop\Nueva carpeta (2)\2015Tsi1Practico1\CrossCutting\bin\Debug
 C:\Users\user\Desktop\Nueva carpeta (2)\2015Tsi1Practico1\CrossCutting\obj\Debug\Shared.csprojResolveAssemblyReference.cache
 C:\Users\user\Desktop\Nueva carpeta (2)\2015Tsi1Practico1\CrossCutting\obj\Debug\Shared.dll
 C:\Users\user\Desktop\Nueva carpeta (2)\2015Tsi1Practico1\CrossCutting\obj\Debug\Shared.pdb
+C:\Git\2015Tsi1Practico1\CrossCutting\bin\Debug\Shared.dll
+C:\Git\2015Tsi1Practico1\CrossCutting\bin\Debug\Shared.pdb
+C:\Git\2015Tsi1Practico1\CrossCutting\obj\Debug\Shared.dll
+C:\Git\2015Tsi1Practico1\CrossCutting\obj\Debug\Shared.pdb

@@ -20,3 +20,16 @@ C:\Users\user\Desktop\Nueva carpeta (2)\2015Tsi1Practico1\BusinessLogicLayer\bin
 C:\Users\user\Desktop\Nueva carpeta (2)\2015Tsi1Practico1\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojResolveAssemblyReference.cache
 C:\Users\user\Desktop\Nueva carpeta (2)\2015Tsi1Practico1\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
 C:\Users\user\Desktop\Nueva carpeta (2)\2015Tsi1Practico1\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
+C:\Git\2015Tsi1Practico1\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+C:\Git\2015Tsi1Practico1\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+C:\Git\2015Tsi1Practico1\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll
+C:\Git\2015Tsi1Practico1\BusinessLogicLayer\bin\Debug\log4net.dll
+C:\Git\2015Tsi1Practico1\BusinessLogicLayer\bin\Debug\Shared.dll
+C:\Git\2015Tsi1Practico1\BusinessLogicLayer\bin\Debug\EntityFramework.dll
+C:\Git\2015Tsi1Practico1\BusinessLogicLayer\bin\Debug\Shared.pdb
+C:\Git\2015Tsi1Practico1\BusinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+C:\Git\2015Tsi1Practico1\BusinessLogicLayer\bin\Debug\log4net.xml
+C:\Git\2015Tsi1Practico1\BusinessLogicLayer\bin\Debug\EntityFramework.xml
+C:\Git\2015Tsi1Practico1\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojResolveAssemblyReference.cache
+C:\Git\2015Tsi1Practico1\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+C:\Git\2015Tsi1Practico1\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb

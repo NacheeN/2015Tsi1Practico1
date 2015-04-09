@@ -22,3 +22,15 @@ C:\Users\user\Desktop\Nueva carpeta (2)\2015Tsi1Practico1\DataAccessLayer\bin\De
 C:\Users\user\Desktop\Nueva carpeta (2)\2015Tsi1Practico1\DataAccessLayer\bin\Debug\Shared.pdb
 C:\Users\user\Desktop\Nueva carpeta (2)\2015Tsi1Practico1\DataAccessLayer\bin\Debug\EntityFramework.xml
 C:\Users\user\Desktop\Nueva carpeta (2)\2015Tsi1Practico1\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Git\2015Tsi1Practico1\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Git\2015Tsi1Practico1\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Git\2015Tsi1Practico1\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Git\2015Tsi1Practico1\DataAccessLayer\bin\Debug\EntityFramework.dll
+C:\Git\2015Tsi1Practico1\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Git\2015Tsi1Practico1\DataAccessLayer\bin\Debug\Shared.dll
+C:\Git\2015Tsi1Practico1\DataAccessLayer\bin\Debug\Shared.pdb
+C:\Git\2015Tsi1Practico1\DataAccessLayer\bin\Debug\EntityFramework.xml
+C:\Git\2015Tsi1Practico1\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Git\2015Tsi1Practico1\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Git\2015Tsi1Practico1\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Git\2015Tsi1Practico1\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
