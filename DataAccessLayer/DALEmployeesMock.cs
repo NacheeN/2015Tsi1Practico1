@@ -168,27 +168,6 @@ namespace DataAccessLayer
         }
 
 
-        public void DeleteListEmployee(List<Employee> emps)
-        {
-            var list = from e in db.Employee
-                       orderby e.Id ascending
-                       select e;
-
-            try
-            {
-                foreach (Employee e in employeesRepository)
-                {
-                    db.Employee.Remove(e);
-                }
-            }
-            catch (Exception ex)
-            {
-
-                throw ex;
-            }
-        }
-
-
         public List<FullTimeEmployee> GetAllEmployeeSalaryAbove(int minsalary)
         {
             List<FullTimeEmployee> listfull = new List<FullTimeEmployee>();

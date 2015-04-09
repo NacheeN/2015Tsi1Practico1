@@ -10,3 +10,15 @@ C:\Users\gaston\Source\Repos\2015Tsi1Practico1\DataAccessLayer\bin\Debug\EntityF
 C:\Users\gaston\Source\Repos\2015Tsi1Practico1\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
 C:\Users\gaston\Source\Repos\2015Tsi1Practico1\DataAccessLayer\obj\Debug\DataAccessLayer.dll
 C:\Users\gaston\Source\Repos\2015Tsi1Practico1\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\user\Desktop\Nueva carpeta (2)\2015Tsi1Practico1\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Nueva carpeta (2)\2015Tsi1Practico1\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\user\Desktop\Nueva carpeta (2)\2015Tsi1Practico1\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\user\Desktop\Nueva carpeta (2)\2015Tsi1Practico1\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\user\Desktop\Nueva carpeta (2)\2015Tsi1Practico1\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\user\Desktop\Nueva carpeta (2)\2015Tsi1Practico1\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\user\Desktop\Nueva carpeta (2)\2015Tsi1Practico1\DataAccessLayer\bin\Debug\EntityFramework.dll
+C:\Users\user\Desktop\Nueva carpeta (2)\2015Tsi1Practico1\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\Desktop\Nueva carpeta (2)\2015Tsi1Practico1\DataAccessLayer\bin\Debug\Shared.dll
+C:\Users\user\Desktop\Nueva carpeta (2)\2015Tsi1Practico1\DataAccessLayer\bin\Debug\Shared.pdb
+C:\Users\user\Desktop\Nueva carpeta (2)\2015Tsi1Practico1\DataAccessLayer\bin\Debug\EntityFramework.xml
+C:\Users\user\Desktop\Nueva carpeta (2)\2015Tsi1Practico1\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
