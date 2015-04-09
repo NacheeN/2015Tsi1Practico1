@@ -20,6 +20,9 @@ namespace PresentationLayerConsole
 
         static void Main(string[] args)
         {
+
+	       
+
                 //log4net.Config.XmlConfigurator.Configure();
 
                 //log4net.Config.XmlConfigurator.Configure(new FileInfo(Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location) + "\\RtdServer.dll.config"));
