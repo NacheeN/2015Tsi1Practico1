@@ -13,7 +13,6 @@ C:\Users\gaston\Source\Repos\2015Tsi1Practico1\PresentationLayerConsole\bin\Debu
 C:\Users\gaston\Source\Repos\2015Tsi1Practico1\PresentationLayerConsole\obj\Debug\PresentationLayerConsole.csprojResolveAssemblyReference.cache
 C:\Users\gaston\Source\Repos\2015Tsi1Practico1\PresentationLayerConsole\obj\Debug\PresentationLayerConsole.exe
 C:\Users\gaston\Source\Repos\2015Tsi1Practico1\PresentationLayerConsole\obj\Debug\PresentationLayerConsole.pdb
-C:\Git\2015Tsi1Practico1\PresentationLayerConsole\bin\Debug\PresentationLayerConsole.exe.config
 D:\2015Tsi1Practico1\PresentationLayerConsole\bin\Debug\PresentationLayerConsole.exe.config
 C:\Users\user\Desktop\Nueva carpeta (2)\2015Tsi1Practico1\PresentationLayerConsole\bin\Debug\PresentationLayerConsole.exe.config
 C:\Users\user\Desktop\Nueva carpeta (2)\2015Tsi1Practico1\PresentationLayerConsole\obj\Debug\PresentationLayerConsole.exe
@@ -36,13 +35,14 @@ C:\Users\user\Desktop\Nueva carpeta (2)\2015Tsi1Practico1\PresentationLayerConso
 C:\Users\user\Desktop\Nueva carpeta (2)\2015Tsi1Practico1\PresentationLayerConsole\bin\Debug\EntityFramework.xml
 C:\Users\user\Desktop\Nueva carpeta (2)\2015Tsi1Practico1\PresentationLayerConsole\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\user\Desktop\Nueva carpeta (2)\2015Tsi1Practico1\PresentationLayerConsole\bin\Debug\DataAccessLayer.pdb
-C:\Git\2015Tsi1Practico1\PresentationLayerConsole\obj\Debug\PresentationLayerConsole.exe
-C:\Git\2015Tsi1Practico1\PresentationLayerConsole\obj\Debug\PresentationLayerConsole.pdb
+C:\Git\2015Tsi1Practico1\PresentationLayerConsole\bin\Debug\log4.config
+C:\Git\2015Tsi1Practico1\PresentationLayerConsole\bin\Debug\PresentationLayerConsole.exe.config
 C:\Git\2015Tsi1Practico1\PresentationLayerConsole\bin\Debug\PresentationLayerConsole.exe
 C:\Git\2015Tsi1Practico1\PresentationLayerConsole\bin\Debug\PresentationLayerConsole.pdb
 C:\Git\2015Tsi1Practico1\PresentationLayerConsole\bin\Debug\BusinessLogicLayer.dll
 C:\Git\2015Tsi1Practico1\PresentationLayerConsole\bin\Debug\EntityFramework.dll
 C:\Git\2015Tsi1Practico1\PresentationLayerConsole\bin\Debug\EntityFramework.SqlServer.dll
+C:\Git\2015Tsi1Practico1\PresentationLayerConsole\bin\Debug\log4net.dll
 C:\Git\2015Tsi1Practico1\PresentationLayerConsole\bin\Debug\Microsoft.Practices.ServiceLocation.dll
 C:\Git\2015Tsi1Practico1\PresentationLayerConsole\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
 C:\Git\2015Tsi1Practico1\PresentationLayerConsole\bin\Debug\Microsoft.Practices.Unity.dll
@@ -54,7 +54,8 @@ C:\Git\2015Tsi1Practico1\PresentationLayerConsole\bin\Debug\BusinessLogicLayer.p
 C:\Git\2015Tsi1Practico1\PresentationLayerConsole\bin\Debug\Shared.pdb
 C:\Git\2015Tsi1Practico1\PresentationLayerConsole\bin\Debug\EntityFramework.xml
 C:\Git\2015Tsi1Practico1\PresentationLayerConsole\bin\Debug\EntityFramework.SqlServer.xml
+C:\Git\2015Tsi1Practico1\PresentationLayerConsole\bin\Debug\log4net.xml
 C:\Git\2015Tsi1Practico1\PresentationLayerConsole\bin\Debug\DataAccessLayer.pdb
 C:\Git\2015Tsi1Practico1\PresentationLayerConsole\obj\Debug\PresentationLayerConsole.csprojResolveAssemblyReference.cache
-C:\Git\2015Tsi1Practico1\PresentationLayerConsole\bin\Debug\log4net.dll
-C:\Git\2015Tsi1Practico1\PresentationLayerConsole\bin\Debug\log4net.xml
+C:\Git\2015Tsi1Practico1\PresentationLayerConsole\obj\Debug\PresentationLayerConsole.exe
+C:\Git\2015Tsi1Practico1\PresentationLayerConsole\obj\Debug\PresentationLayerConsole.pdb
