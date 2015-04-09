@@ -66,6 +66,7 @@ namespace BusinessLogicLayer
                     }
                     else
                     {
+                        Console.WriteLine("No se puede calcular Salario. Empleado Full Time");
                         throw new System.Exception("No es part time");
                     }
                 }

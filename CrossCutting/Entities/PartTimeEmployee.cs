@@ -11,7 +11,7 @@ namespace Shared.Entities
     public class PartTimeEmployee : Employee
     {
         [Required]
-        [StringLength(255)]
+        
         [Column("RATE")]
         public double HourlyRate { get; set; }
     }
