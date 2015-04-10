@@ -13,6 +13,7 @@ namespace Test
     {
         public static void RegisterTypes(UnityContainer container)
         {
+            
             //register the concrete implementation for interfaces
             container.RegisterType<IDALEmployees, DALEmployeesMock>();
             container.RegisterType<IBLEmployees, BLEmployees>();
@@ -24,6 +25,10 @@ namespace Test
             //register a singleton for BL
             BLEmployees blEmployees = new BLEmployees(container.Resolve<IDALEmployees>());
             container.RegisterInstance(blEmployees);
+
+
+
+
         }
 
     }

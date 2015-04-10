@@ -80,8 +80,8 @@ namespace DataAccessLayer
         {
             List<Employee> empleados = new List<Employee>();
             try
-            {
-                empleados = db.Employee.ToList();
+            {   
+                empleados = employeesRepository.ToList();
                 return empleados;
             }
             catch (Exception ex)
