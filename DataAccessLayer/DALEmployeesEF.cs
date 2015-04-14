@@ -17,6 +17,7 @@ namespace DataAccessLayer
             try
             {
                 db.Employee.Add(emp);
+                
                 db.SaveChangesAsync();
             }
             catch (Exception ex)

@@ -9,6 +9,8 @@ namespace BusinessLogicLayer
 {
     public interface IBLEmployees
     {
+        
+
         void AddEmployee(Employee emp);
 
         void DeleteEmployee(int id);
